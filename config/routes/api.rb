@@ -1,0 +1,1 @@
+post 'ocr/process_image', to: 'ocr#process_image'

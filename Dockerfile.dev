@@ -1,5 +1,7 @@
 FROM ruby:3.2.3
 
+RUN apt-get update -qq && apt-get install -y build-essential libpq-dev tesseract-ocr tesseract-ocr-jpn
+
 # コンテナの作業ディレクトリ
 WORKDIR /app
 

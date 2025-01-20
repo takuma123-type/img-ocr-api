@@ -181,7 +181,7 @@ GEM
     parser (3.3.6.0)
       ast (~> 2.4.1)
       racc
-    pkg-config (1.5.8)
+    pkg-config (1.5.9)
     propshaft (1.1.0)
       actionpack (>= 7.0.0)
       activesupport (>= 7.0.0)
@@ -239,7 +239,7 @@ GEM
     regexp_parser (2.10.0)
     reline (0.6.0)
       io-console (~> 0.5)
-    rmagick (6.0.1)
+    rmagick (6.1.0)
       observer (~> 0.1)
       pkg-config (~> 1.4)
     rtesseract (3.1.3)
